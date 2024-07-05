@@ -1,10 +1,10 @@
 # Mozilla Support XPath Parser
 
-This repository contains the answers to the Cyberint Operations Challenge for finding specific elements on the Mozilla Support website using XPath. The provided `xpath_parser.py` script prints the count of elements found for each XPath query.
+"This repository contains the answers to the Cyberint Operations Challenge, focusing on finding specific elements on the Mozilla Support website using XPath. The xpath_parser.py script provided in this repository retrieves the HTML content from the website, applies specified XPath queries to count the number of elements found for each query, and prints the results to the console."
 
 ## Project Description
 
-The project fetches HTML content from the Mozilla Support Firefox questions page and applies specified XPath queries to count the number of elements found for each query. The results are printed to the console.
+The project involves writing XPath queries to find specific elements on the Mozilla Support Firefox questions page. In addition, a Python script is provided that fetches the HTML content of the page, applies the specified XPath queries, and prints the count of the elements found for each query to the console.
 
 ## Files in the Repository
 
