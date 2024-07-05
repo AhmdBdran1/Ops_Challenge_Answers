@@ -13,7 +13,7 @@ The project fetches HTML content from the Mozilla Support Firefox questions page
 
 ## Installation and Usage
 
-1. **Ensure you have Python and required libraries installed:**
+ **Ensure you have Python and required libraries installed:**
    ```sh
    pip install requests lxml
 
